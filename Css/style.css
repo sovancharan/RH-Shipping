@@ -1,0 +1,1770 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    list-style: none;
+    color: #000000;
+}
+a{
+    text-decoration: none !important;
+}
+::placeholder{
+    color: #D9D9D9;
+}
+.contactUs-form-input::placeholder {
+    color: #D9D9D9;
+}
+.input-MainDiv .form-control::placeholder {
+    color: #C1C1C1;
+}
+.signIn-subDiv {
+    display: flex;
+    justify-content: end;
+    padding-right: 5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+.signIn p {
+    margin-bottom: 0;
+}
+.signIn-mainDiv {
+    background-color: #002E6D;
+}
+
+.navBtn-heading {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+}
+.caseStudies-mainDiv form.d-flex.button-frm .btn {
+    min-width: 250px;
+}
+.casestudies-secess .item {
+    margin-bottom: 2rem;
+}
+div#navbarSupportedContent ul li a {
+
+    color: #000 !important;
+}
+
+.signIn:hover {
+    cursor: pointer;
+}
+
+.navbar-nav-ul {
+    width: 71%;
+    justify-content: end;
+    padding-right: 1rem;
+}
+
+.nav-link {
+    margin-right: 3rem !important;
+}
+
+.contactUs-btn {
+    background-color: #00AEEF;
+    min-width: 100px;
+    color: white;
+}
+
+.btnFont-heading {
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    border-radius: 0;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-right: 2rem;
+}
+
+.Careers-btn {
+    border: 1px solid #002E6D;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: #002E6D;
+    transition: 0.5s;
+}
+
+button.btn.Careers-btn.btnFont-heading:hover {
+    background: #f06218;
+    border: 1px solid #f06218;
+    color: #fff;
+    transition: 0.5s;
+}
+
+div#navbarSupportedContent ul.navbar-nav.navbar-nav-ul li a:hover {
+    color: #f06218 !important;
+    /* font-weight: 600; */
+}
+
+.contactUs-btn {
+    background: #F06218;
+    color: white;
+    margin-right: 0 !important;
+    transition: 0.5s;
+}
+
+.contactUs-btn.btnFont-heading:hover {
+    color: #FFFFFF;
+    background: #00AEEF;
+    transition: 0.5s;
+}
+
+.intSPlusLik {
+    background: linear-gradient(360deg, #F7F7F7 0%, rgba(247, 247, 247, 0) 100%);
+    padding-bottom: 7rem;
+}
+
+.saven-box-maindiv.position-relative {
+    margin-top: -6rem;
+}
+
+/* .owl-theme .owl-nav{
+    display: none !important;
+}
+.owl-theme .owl-dots {
+    padding: 2rem 0rem !important;
+    text-align: center;
+    -webkit-tap-highlight-color: transparent;
+} */
+
+.navbar-mainDiv {
+    padding: 1.5rem 5rem;
+}
+.caseStudiesBody .Ship-para {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    max-width: 70%;
+}
+.caseStudies-mainDiv {
+    background-image: url('../images/banner.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.common-heading {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #002E6D;
+    text-align: center;
+
+}
+
+.freight-heading {
+    color: white;
+}
+
+.intsupplyc-heading {
+    color:
+        #002E6D;
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+
+.sucess-stories-maindiv {
+    padding-bottom: 5rem;
+}
+
+.sucess-stories-div {
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+
+.sucess-stories-heding {
+    color: #002E6D;
+    text-align: center;
+}
+
+.sucess-stories-btn {
+    padding: 0.8rem 1rem;
+
+}
+ul.list-inline.button-frm.international-supply-btn li a {
+    margin: 0;
+}
+.move-btn {
+    color: #002E6D;
+    border: 2px solid #002E6D;
+}
+
+.clear-btn {
+    color: white;
+    background-color: #002E6D;
+}
+
+.logistics-btn {
+    color: white;
+    background-color: #002E6D;
+}
+
+.trade-btn {
+    color: white;
+    background-color: #002E6D;
+}
+
+.box-common-para {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    padding: 0.8rem 0rem;
+}
+
+.boxPara-same-heading {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    padding-top: 1rem;
+
+    color: #000000;
+}
+
+.box-common-para {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.logo-imgDiv {
+    width: 100%;
+    min-height: 30vh;
+    max-height: 30vh;
+}
+
+.boxPara-div {
+    padding: 1rem 2rem 3rem 1.5rem;
+    
+}
+.articale-para-div{
+    text-align: center;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.col-lg-2.col-md-4.col-sm-6.logo-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .container-fluid {
+    padding-left: 5rem;
+    padding-right: 5rem;
+} */
+.licence-patnershipMainDiv .container-fluid.mb-5 {
+    padding: 0 5rem;
+}
+
+.cta-btn {
+    border: none;
+    background: #00AEEF;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #FFFFFF;
+    padding: 0.7rem 2rem;
+}
+
+.caseStudiesBody {
+    padding: 4rem 6rem 6rem 5rem;
+    position: relative;
+}
+
+h1.ocean-heading {
+    color: #fff;
+}
+
+.nameAndLastName-MainDiv .social-link i {
+    color: #002E6D;
+}
+
+.cta1 {
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+
+    color: #FFFFFF;
+    background: #00AEEF;
+    padding: 0.8rem 1.5rem;
+}
+
+.cta2 {
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    padding: 0.8rem 1.5rem;
+
+}
+
+.signIn {
+    margin-right: 3rem;
+}
+
+.caseStudies-heading {
+
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+}
+
+.TakeLook-heading {
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 51px;
+    padding: 0;
+    margin: 0;
+
+    color: #FFFFFF;
+}
+
+.six-Common-heading {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 54px;
+}
+
+.intsupplyc-maindiv {
+    padding-bottom: 5rem;
+}
+
+.box-img {
+    width: 100%;
+}
+
+.col-mainDiv {
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+
+.fourBox-mainDiv {
+    padding: 3rem 5rem;
+}
+
+.licece-heading-div {
+    padding-bottom: 3rem;
+}
+
+.logo-imgDiv {
+    width: 100%;
+    min-height: 28vh;
+}
+
+.forwarding-servicess-mainDiv {
+    padding: 5rem 0;
+    position: relative;
+}
+
+.forwarding-servicess-mainDiv:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: -100px;
+    background: #fff;
+    border-radius: 100%;
+    width: 100%;
+    height: 200px;
+    z-index: 0;
+}
+
+.forwarding-sub-heading {
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 41px;
+    text-align: center;
+}
+
+.twentyfiveYears-exp {
+    background-color: #002E6D;
+
+}
+
+.saven-box-div-boxes {
+    padding: 1rem;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 34px;
+    height: 100%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.tons-box {
+    background: #F06218;
+    /* padding-top: 5rem; */
+}
+
+.teus {
+    background: #F3F6F7;
+}
+
+.cargo-box {
+    background: #00B0F0;
+
+}
+
+.container-img {
+    width: 100%;
+}
+
+.nationalAnd-internationalDiv {
+    background: #F0A618;
+}
+
+.personalized-sevice {
+    background: #F3F6F7;
+}
+
+.saven-heading {
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 34px;
+}
+
+/* .saven-box-maindiv{
+    
+} */
+/* .cargo-box {
+min-height: 35.5vh;
+}
+.tons-box{
+min-height: 38.1vh;
+}
+.specialization-img-MainDiv{
+    padding-bottom: 5rem;
+}
+.personalized-sevice{
+    padding-bottom: 4.5rem;
+}
+
+.industry-specialization-MaiDiv{
+    padding-top: 4rem;
+    padding-bottom: 0.5rem;
+}
+ */
+.item-box-equal {
+    display: flex;
+    /* flex-direction: column; */
+    height: 50%;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.specialization-img-MainDiv-row {
+    justify-content: center;
+}
+
+.forwarding-heading {
+    padding: 1rem 0rem 1rem 0rem;
+}
+
+.haveAMoreQues-MainDiv {
+    background-image: url('../images/home-paralax.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /* Set a specific height */
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    position: relative;
+
+}
+
+.rh-shipping-SerItem.box-common-para li {
+    color: #fff;
+}
+
+.social-link i {
+    color: #fff;
+}
+
+.haveAMoreQues-MainDiv:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.Ship-para {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    padding: 2rem 6rem 2rem 0rem;
+}
+
+.haveAMoreQuesBody {
+    padding: 5rem 5rem 5rem 8rem;
+    position: relative;
+}
+
+.owl-carouse-MainDiv {
+    padding: 0rem 4rem;
+
+}
+
+.sucessStory-heading {
+    color: #002E6D;
+
+}
+
+.sucess-mainDiv {
+    padding: 5rem;
+}
+
+.sucessStory-headingDiv {
+    padding-bottom: 3rem;
+}
+
+.plantImg1 {
+    width: 100%;
+}
+
+.plantImg-div2 {
+    padding-left: 2rem;
+}
+
+.plantImg-div1 {
+    padding-right: 2rem;
+}
+
+.plant-heading2 {
+    padding-left: 2.5rem;
+    padding-bottom: 0.5rem;
+    font-weight: bold;
+
+}
+
+.plant-heading {
+    padding-bottom: 0.5rem;
+}
+
+.charter-div {
+    padding-top: 1rem;
+    text-align: right;
+}
+
+.charter-heading1 {
+    padding-right: 2.5rem;
+}
+
+.charter-heading {
+    color: #F06218;
+
+
+}
+
+.rateing-colDiv {
+    background: #F3F6F7;
+    text-align: center;
+    padding: 2rem 2rem;
+    margin: 0 4rem;
+}
+
+/* .rateing-MainDiv {
+    padding-left: rem;
+} */
+.ourBlog-mainDiv {
+    padding-top: 1rem;
+    padding-bottom: 7rem;
+}
+
+.our-blog-row {
+    padding: 0 1rem;
+}
+
+.fuirts-img {
+    width: 100%;
+}
+
+.fuirts-colDiv {
+    /* margin: 1rem; */
+    /* box-shadow: 1px 6px 4px -1px #aaaaaa; */
+    border: 1px solid #C1C1C1;
+}
+.our-blog-row .fuirts-colDiv {
+    margin: 1rem 4rem;
+}
+.important-link {
+    background-color: #002E6D;
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.rh-shipping-heading {
+    text-align: left;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    padding-bottom: 1.5rem;
+
+}
+
+.rh-shipping-heading {
+    color: white;
+
+}
+
+.rh-shipping-SerItem {
+    text-align: left;
+}
+
+.ul-items {
+    padding: 0;
+}
+
+.rh-services-heading {
+    padding-top: 0.5rem;
+    color: white;
+    padding-bottom: 1.5rem;
+}
+
+.bbbDiv {
+    padding-top: 2rem;
+    padding-bottom: 7rem;
+}
+
+.copyRightMainDiv {
+    background: #012251;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem 6rem;
+}
+
+.copyRightMainDiv p {
+    margin: 0;
+}
+
+.copyRight-para {
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.social-link-mainDiv {
+    display: flex;
+}
+
+.social-link {
+    color: white;
+    font-size: 3rem;
+    padding: 0rem 0.5rem;
+
+
+}
+
+.English-Dropdown select option {
+    color: #000;
+    padding: 1rem;
+    font-size: 1rem;
+}
+
+.English-Dropdown select {
+    background: transparent;
+    border: 0;
+    color: #fff;
+    box-shadow: none;
+    outline: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.ourBlog-mainDiv .fuirts-colDiv {
+    box-shadow: none;
+    background: #FFFFFF;
+    border: 1px solid #C1C1C1;
+}
+
+.English-Dropdown:after {
+    position: absolute;
+    content: '';
+    right: 0;
+    top: 30%;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 8px 0 8px;
+    border-color: #ffffff transparent transparent transparent;
+}
+
+.English-Dropdown {
+    position: relative;
+}
+
+.clear-btn {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #ffffff;
+    padding: 12px 40px;
+    margin: 0 1rem;
+    border: 1px solid transparent;
+}
+
+.clear-btn.active {
+    color: #002E6D;
+    border: 1px solid #002E6D;
+    background: transparent;
+}
+
+#owl-carousel2 {
+    margin: 3rem 0 6rem;
+}
+
+/* end  */
+/* servicess section */
+
+/* professional developer creator */
+
+.WeAre-mainDiv {
+    padding-bottom: 6rem;
+    padding-top: 5.8rem;
+    background: #F7F7F7;
+}
+
+.row-main-div {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+.weAre-col {
+    padding: 0 2rem;
+}
+
+.box-img1 {
+    background-size: 100% 100%;
+    padding: 5rem 0rem;
+}
+
+.subcommonHeading-five {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+}
+
+.box-para-bg {
+    /* background-color: #153042; */
+    padding: 2rem 2rem 4rem;
+}
+
+.weAre-col .box-para {
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+}
+
+.licence-patnershipMainDiv {
+    padding-top: 4rem;
+}
+
+.intsupplyc-maindiv.supply-chain {
+    padding-bottom: 3rem;
+}
+
+.intsupplyc-maindiv.supply-chain .owl-carouse-MainDiv {
+    padding: 2rem 4rem 0;
+}
+
+/* .rateing-MainDiv {
+    padding: 0 5rem 3rem;
+} */
+
+.box-para {
+    text-align: left;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.creator-img {
+    background: url('../images/creators.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.professionals-img {
+    background-image: url(../images/professionals.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.developer-img {
+    background-image: url(../images/developers.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+/* ocean freight servicess */
+
+.ocean-freight-MainPara {
+    padding: 1rem 4rem;
+}
+
+.lets-talkAboutbtn-Maindiv {
+    padding-top: 1rem;
+}
+
+.ocean-common-heading {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 54px;
+    color: #002E6D;
+}
+
+.ocean-para {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.Schedule-btn {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #00AEEF;
+    padding: 0.8rem 1.5rem;
+}
+
+.ocean-freight-img {
+    width: 100%;
+    /* min-height: 76vh; */
+    height: 100%;
+}
+.ocean-freight-Servicess-col {
+    display: flex;
+    height: 100%;
+}
+.ocean-freight-MainPara2 {
+    padding: 3rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.ocean-freight-imgDiv{
+    width: 100%;
+}
+
+/* fcl shipping */
+
+.fcl-Shipping-mainDiv {
+    background: rgba(20, 21, 22, 0.8);
+    padding: 5.8rem 0rem;
+}
+
+.fcl-Shipping-row {
+    padding-right: 1rem;
+}
+
+.fcl-Shipping-col {
+    padding: 0rem 1rem 0rem 4rem;
+    color: white;
+}
+
+.fcl-heading {
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 42px;
+    color: #fff;
+}
+
+.fcl-border {
+    border-bottom: 2px solid #00AEEF;
+    color: #fff;
+    width: 20%;
+    display: block;
+    position: relative;
+    padding-top: 0.3rem;
+}
+
+.fcl-para {
+    padding-right: 2rem;
+    padding-top: 1.5rem;
+    color: #fff;
+}
+
+
+
+.caseStudies-mainDiv.service-banner:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90.45deg, rgba(0, 0, 0, 0.25) 0.39%, rgba(0, 0, 0, 0) 54.67%);
+}
+
+.caseStudies-mainDiv.service-banner {
+    background: url('../images/service-banner.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+/* lecence and stratigic patership */
+
+
+/* Blog listing  page*/
+
+/* header */
+
+.ListingBlogHeader {
+    background: url('../images/BlogListingHeaderImg.png'), linear-gradient(89.86deg, rgba(0, 0, 0, 0.5) 8.71%, rgba(0, 0, 0, 0) 104.61%);
+    ;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.ListingBlogHeader:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: linear-gradient(89.86deg, rgba(0, 0, 0, 0.5) 8.71%, rgba(0, 0, 0, 0) 104.61%);
+    width: 100%;
+    height: 100%;
+}
+
+/* Recent posts */
+
+.recent-mainDiv {
+    padding-bottom: 3rem;
+    padding-top: 5rem;
+}
+
+/* global patner */
+
+.aroplane {
+    background: url("../images/globalPatnerImg.png") no-repeat;
+    background-size: 100% 100%;
+}
+
+.aroplane-headingdiv {
+    padding: 8rem 2rem;
+    text-align: center;
+}
+
+
+/* Explore by catagory */
+
+.elploreBy-catagory {
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+
+/* Artcle title */
+
+.articale-div {
+    text-align: center;
+}
+
+/* sign up section */
+
+.signUp-MainDiv {
+    background-image: url('../images/signUp.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /* min-height: 60vh; */
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+.signUp-TextDiv {
+    padding: 5rem 1rem;
+}
+
+.input-MainDiv {
+    display: flex;
+    justify-content: center;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+/* .input1{
+        padding-right: 3rem;
+    } */
+.form-control {
+    /* width: 110%; */
+    padding: 0.9rem 1rem;
+    border-radius: 0;
+    border: 2px solid #C1C1C1;
+}
+
+
+/* footer section */
+
+
+/* blog section*/
+
+
+
+/* blog header */
+.BlogTitleHeader {
+    background: url('../images/BlogPostTitle.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.BlogTitleHeader:before {
+    content: '';
+    background: linear-gradient(90.45deg, rgba(0, 0, 0, 0.5) -2.27%, rgba(0, 0, 0, 0) 97%);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.blog-title {
+    padding-top: 5rem;
+    padding-bottom: 7rem;
+}
+
+/* six min read*/
+
+.sixMin-read-main-Div {
+    padding-top: 3rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-bottom: 8rem;
+}
+
+.six-minRead-span {
+    padding-left: 1rem;
+    font-weight: bold;
+}
+
+.secondaryTitle {
+    padding-top: 2.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.boxblog-para-span {
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 42px;
+
+    color: #000000;
+}
+
+.input1 {
+    margin-right: 2rem;
+}
+
+/* Ready to get started section */
+.Readyto-getStarted-Maindiv {
+    padding: 0rem 7rem;
+    padding-bottom: 6rem;
+}
+
+.Readyto-getStarted {
+    background-image: url('../images/readyToGetStarted.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /* min-height: 60vh; */
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+
+
+}
+
+.Readyto-getStartedBody {
+
+    padding: 6rem 1rem;
+
+}
+
+.weAreHappy-para {
+    color: white;
+    text-align: center;
+}
+
+.schedule-btn-Div {
+    text-align: center;
+}
+
+.schedule-btn {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+/* name and last name */
+
+.nameAndLastName {
+    display: flex;
+    flex-direction: row;
+}
+
+.name-para {
+    text-align: start;
+}
+
+.social-link-name {
+    color: #002E6D;
+}
+
+.name-social-link-mainDiv {
+    display: flex;
+    justify-content: end;
+}
+
+.nameAndLastName-headingDiv {
+    padding-right: 0rem;
+    padding-left: 3rem;
+}
+
+.nameAndLastName-heading {
+    text-align: left;
+}
+
+.nameAndLastName-MainDiv {
+    padding: 0rem 7rem;
+    padding-bottom: 5rem;
+
+}
+
+.social-link-mainDiv.name-social-link-mainDiv {
+    padding-right: 1.5rem;
+}
+
+/* case study */
+
+/* header */
+
+.caseStudies-mainDiv1 {
+    background: url('../images/caseStudyHeader1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.caseStudies-mainDiv1:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90.45deg, rgba(0, 0, 0, 0.3) 0.39%, rgba(0, 0, 0, 0) 61.91%);
+}
+
+
+
+/* rateings */
+
+.caseStudiesReview-maiDiv {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.rateing-MainDiv.mb-5.service-page .rateing-colDiv {
+    margin: 0 2rem;
+}
+.rateing-MainDiv.mb-5.service-page .rateing-col1 {
+    padding: 0 !important;
+}
+
+/* rateings */
+
+.caseStudiesReview-maiDiv{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+/*case studies sucess stories slider  */
+
+.case-studies-sucess-slider2-mainDiv{
+    padding-top: 1rem;
+}
+.case-studies-slider1{
+    padding-bottom: 1rem;
+}
+/* case studies we have special permit */
+
+.We-have-special-permit{
+    background: url("../images/WeHaveSpecialPermit.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.We-have-special-permit-para{
+    /* padding: 0rem 8rem; */
+}
+
+/* 24/servicess */
+
+.twentyFourServicess-mainDiv{
+padding: 7rem 6rem 3rem 6rem;
+}
+.twentyFourServicessCol {
+    background: #002E6D;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+.main-box-wrap .twentyFourServicessCol {
+    flex-grow: 1;
+    align-items: center;
+}
+.main-box-wrap {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.twentyFourServicessCol p.Ship-para.twentyFourServicess-para {
+    text-align: center;
+    padding: 0 !important;
+    padding-left: 2rem !important;
+}
+.twentyFourServicess-para{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.full-servicess{
+    background: #00AEEF;
+
+}
+.custom-servicess{
+padding-left: 3rem;
+}
+.check-para{
+    padding-left: 9rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+
+.twentyfour-servicess-List>ul>li{
+    list-style: disc;
+    color: #002E6D;
+    padding: 1.5rem 0rem;
+}
+
+.twentyfour-servicess-List {
+    padding: 3rem;
+    padding-left: 4rem;
+    background: #F3F6F7;
+}
+.custom-servicess{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* Proven Industry Specialization */
+
+
+/* our location section */
+
+.ourlocationHeader{
+    background: url("../images/locationHeader.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+/* map section */
+.map-mainDiv {
+    background-image: url(../images/mapa\ mex-01\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 1050px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.mapDiv-col{
+    /* display: flex;
+    flex-direction: column;
+    min-height: 125vh;
+    justify-content: flex-end; */
+    color: #002E6D;
+    padding-left: 6rem;
+    
+}
+.ourBlog-mainDiv-boxshadow .fuirts-colDiv {
+    border: 0;
+    box-shadow: 0px 8px 8px rgb(0 0 0 / 25%);
+}
+.map-heading2{
+    padding-top: 2rem;
+}
+
+/* nvocc section */
+.continents p{
+    margin-bottom: 0;
+}
+
+.nvocc-Main-div {
+    padding: 3rem 7rem;
+    padding-top: 0;
+}
+.container-img-div img {
+    height: 100%;
+}
+.container-img-div {
+    position: relative;
+    height: 100%;
+}
+.nvocc-img-col{
+    display: flex;
+    align-items: center;
+}
+.nvocc-img-div>.nvocc-img-div{
+    color: #002E6D;
+ 
+    
+}
+.nvocc-para-div>p{
+    text-align: center;
+    color: #002E6D;
+}
+
+.nvocc-para{
+    padding-right: 0;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+/* proven freight forwarding servicess */
+
+.dep-blue-country{
+    background: #002E6D;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.project-cargo-white{
+    background: #F2F2F2;
+    padding-bottom: 5rem;
+    padding-top: 4.2rem;
+    
+}
+.project-cargo-white>div>p{
+    color: #000000;
+}
+.blue-tons{
+    background: #00AEEF;
+    padding-top: 5.7rem;
+    padding-bottom: 5.6rem;
+}
+.blue-continents{
+
+}
+.orange-tues{
+    background: #F06218;
+    padding-top: 5.2rem;
+    padding-bottom: 5.2rem;
+
+}
+.location-int-Div{
+    padding-top: 5.2rem;
+    padding-bottom: 5.2rem;
+}
+.orange-tues>div{
+    color: white;
+}
+.five-continents{
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+.location-P-service{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.continents{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* contact us */
+
+/* contact us header */
+
+.ContactUs-Header{
+background: url("../images/contactusHeader.png");
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+
+/* form section */
+
+.form-right-col{
+    background: url("../images/formBg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 5.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.bg-f2f2{
+    background-color: #F2F2F2;
+}
+.form-right-col-para-inner{
+    color: #002E6D;
+    background: rgba(255, 255, 255, 0.45);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  
+}
+
+.form-right-col-para-inner{
+    padding-left: 3rem ;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-right: 2rem;
+}
+
+.from-input-and-heading{
+    padding-left: 5rem;
+    font-weight: bold;
+    padding-top: 5rem;
+    padding-right: 4rem;
+    padding-bottom: 3rem;
+}
+
+.from-headingDiv>.from-heading{
+    color: #002E6D;
+}
+
+.contact-us-form-input{
+    padding-top: 4rem;
+}
+.contactUs-form-input{
+    border: 2px solid #D9D9D9;
+    border-radius: 9px;
+    padding-left: 1.5rem;
+    padding-top: 1.3rem;
+    padding-bottom: 1.3rem;
+    margin-bottom: 2rem;
+}
+
+::placeholder{
+    font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+
+color: #D9D9D9;
+}
+.send-btn{
+    background: #00AEEF;
+    margin-top: 1rem;
+}
+.f-name-col{
+    margin-right: rem;
+}
+
+
+/* about us section */
+
+.about-usMain-Div{
+    background: url("../images/AboutUsHeader.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+}
+
+.about-us-sec-heading{
+    padding-top: 1rem;
+    
+}
+
+/* vision mission section */
+
+.vission-mission-MainDiv{
+    padding-left: 4rem;
+    padding-top: 6rem;
+    padding-right: 4rem;
+    padding-bottom: 4rem;
+}
+
+.mission-mainDiv {
+    background: url(../images/missionImg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 100%;
+}
+
+.mission-headingAnd-para>p{
+    color: white;
+    /* padding-bottom: 2rem; */
+}
+.mission-headingAnd-para{
+    padding-left: 3rem;
+}
+
+.mission-headingAnd-para>.Ship-para{
+    padding-top: 1rem;
+}
+
+.mission-para{
+    padding-bottom: 4rem;
+}
+.mission-heading{
+    padding-bottom: 0rem;
+}
+.misssion-ul>li{
+    list-style: disc !important;
+    padding-top: 0rem;
+    padding-right: 0rem;
+}
+.vision-vlues-main-div {
+    padding-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+}
+.vlues-main-div {
+    background: #F06218;
+    padding: 2rem;
+    padding-right: 3rem;
+}
+.values-para{
+    padding-right: 0rem;
+    padding-top: 0rem;
+}
+.vision-main-div {
+    padding: 2rem;
+    background: #F7F7F7;
+    margin-bottom: 1rem;
+}
+
+/* twenty six years heading and paara */
+
+.twenty-six-years{
+    color: #002E6D;
+}
+.twentysix-years-heading{
+    font-weight: 400;
+    padding-left: 4rem;
+}
+.twenty-six-years-main-para1{
+    position: relative;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 2rem;
+    position: relative;
+}
+.twenty-six-years-main-para1-col1>p{
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.para-number{
+    color: #8097B6;
+
+}
+
+.location-logo{
+    text-align: center;
+    border-bottom:2px  ;
+    position: relative;
+    z-index: 3;
+}
+.twenty-six-years-main-para1>.row{
+    padding-bottom: 1rem;
+}
+
+
+/* lets talk about section */
+
+.lets-talk-about-MainDiv{
+    background: #F7F7F7;
+
+}
+.about-us-lets-talkAbout-btn{
+    justify-content: center;
+  
+}
+
+.lets-talk-about-MainDiv{
+    padding-left: 6rem;
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+}
+
+
+/* anatomy sucess */
+
+.antomy-sucess-img{
+    background: url("../images/AnatomySucess.png");
+    min-height: 78vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: flex-end;
+}
+.forwarding-servicess-mainDiv.contact-bg-shape:before {
+    display: none;
+}
+.caseStudies-mainDiv1.ourlocationHeader form.d-flex button {
+    min-width: 250px;
+}
+.service-paralax {
+    background: url('../images/service-paralax.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: center;
+}
+.about-us-bg-f7{
+    background: #F7F7F7;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.lets-talk-about-MainDiv{
+    background: #F7F7F7;
+
+}
+.about-us-lets-talkAbout-btn{
+    justify-content: center;
+  
+}
+
+.lets-talk-about-MainDiv{
+    padding-left: 6rem;
+    padding-top: 8rem;
+    padding-bottom: 4rem;
+}
+
+
+/* anatomy sucess */
+
+.anatomy-national{
+    background: #002E6D;
+}
+
+/* we are */
+.weAre-heading{
+    padding-bottom: 2rem;
+}
+
+/* nvocc */
+
+.contact-us-nvocc{
+    background: #F7F7F7;
+
+}
+
+/* leadership section */
+
+.leadership-mainsiv {
+    padding-top: 4rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.rudolf-img{
+    width: 95%;
+}
+.rudolf-hess-row{
+    background: #FFFFFF;
+border: 4px solid #F2F2F2;
+padding: 3rem ;
+margin-top: 4rem;
+}
+.leadership-team{
+    padding-bottom: 6rem;
+}
+.rudolf-para-section>p {
+    text-shadow: 0 0 4px #9e9e9e;
+    padding-top: 0rem;
+    padding-bottom: 0.8rem;
+    padding-right: 0em;
+}
+.rudolf-para-link>a{
+    text-shadow: 0 0 4px  #9e9e9e;
+}
+.rudolf-para-link>a>i{
+    color: #000000;
+    font-size: 2rem;
+    padding-top: 1rem;
+    padding: 1rem;
+}
+
+.twenty-six-years-main-para1:before {
+    content: '';
+    left: 0;
+    position: absolute;
+    top: 53%;
+    border-bottom: 1px dashed #000;
+    width: 100%;
+    border-width: medium;
+}
+.twenty-six-years-main-para1:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -90px;
+    background: #fff;
+    border-radius: 100%;
+    width: 100%;
+    height: 200px;
+    z-index: 0;
+}
+.row.g-0.position-relative.z-index-9 {
+    z-index: 9;
+}
+.ocean-freight-MainPara {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.ourBlog-mainDiv .cta-btn {
+    padding: 0.7rem 1rem;
+}

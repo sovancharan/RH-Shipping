@@ -1,0 +1,1244 @@
+@media (max-width: 1600px) { 
+    
+    .signIn {
+        margin-right: 2rem;
+    }
+    .signIn-subDiv {
+        padding-right: 4rem;
+    }
+    .nav-link {
+        margin-right: 1.5rem !important;
+    }
+    .licence-patnershipMainDiv .container-fluid.mb-5 {
+        padding: 0 4rem;
+    }
+    .saven-heading {
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .common-heading {
+        font-size: 44px;
+        line-height: 52px;
+    }
+    .btnFont-heading
+    {
+        margin-right: 1rem;
+    }
+ }
+
+ @media (min-width: 992px){
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0rem !important;
+    padding-left: 0rem !important;
+}
+ }
+
+@media (max-width: 1399.98px) { 
+    .ourBlog-mainDiv {
+        padding-top: 1rem;
+        padding-bottom: 4rem;
+    }
+    .rudolf-hess-row {
+        padding: 2rem;
+        margin-top: 3rem;
+    }
+    .lock-icon img, .clock-icon img, .check-icon img {
+        max-height: 55px;
+        max-width: 55px;
+    }
+    .twentyfour-servicess-List>ul>li {
+        padding: 0.5rem 0rem;
+    }
+    .twentyfour-servicess-List {
+        padding: 2rem;
+        padding-left: 3rem;
+    }
+    .navbar-mainDiv {
+        padding: 1rem 5rem;
+    }
+    .haveAMoreQues-MainDiv {
+        min-height: 400px;
+    }
+    .TakeLook-heading {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .subcommonHeading-five {
+        font-size: 32px;
+    }
+    .fcl-Shipping-mainDiv {
+        padding: 4rem 0rem;
+    }
+    .ocean-common-heading {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .box-para {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .fcl-heading {
+        font-size: 27px;
+        line-height: 32px;
+    }
+    .six-Common-heading {
+        font-size: 40px;
+    }
+    .aroplane-headingdiv {
+        padding: 6rem 2rem;
+    }
+    .clear-btn {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 10px 30px;
+        margin: 0 1rem;
+    }
+    
+    .caseStudiesBody {
+        padding: 4rem 1.5rem 6rem 4rem;
+        position: relative;
+    }
+    .English-Dropdown:after {
+        right: 14%;
+        top: 35%;
+        border-width: 7px 5px 0 5px;
+    }
+    .copyRight-para {
+        font-size: 1rem;
+    }
+    .social-link {        
+        font-size: 2rem;
+    }
+    .signIn {
+        margin-right: 2rem;
+    }
+    .logo-imgDiv {
+        width: 100%;
+        min-height: 24vh;
+        max-height: 24vh;
+    }
+    .haveAMoreQuesBody {
+        padding: 2rem 5rem;
+        position: relative;
+    }
+    .forwarding-sub-heading {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    #owl-carousel2 {
+        margin: 1rem 0 4.5rem;
+    }
+    .box-common-para{
+        font-size: 18px;
+    }
+    .nav-link {
+        margin-right: 1.5rem !important;
+    }
+    .navBtn-heading {
+        font-size: 16px;
+    }
+    .common-heading {
+        font-size: 44px;
+        line-height: 52px;
+    }
+    .Careers-btn {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+    .btnFont-heading {
+        font-size: 16px;
+        line-height: 22px;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+        margin-right: 1rem;
+    }
+    .Ship-para {
+        font-size: 26px;
+        line-height: 34px;
+        padding: 1rem;
+        padding-left: 0;
+    }
+    .navbar-mainDiv {
+        padding: 1.5rem 4rem;
+    }
+    .intsupplyc-heading {
+        padding-top: 3.5rem;
+        padding-bottom: 2rem;
+    }
+    .common-heading {
+        font-size: 40px;
+        line-height: 44px;
+    }
+    .boxPara-same-heading {
+        font-size: 19px;
+        line-height: 24px;
+        padding-top: 0.5rem;
+    }
+    .intsupplyc-maindiv {
+        padding-bottom: 3rem;
+    }
+    .box-common-para {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 0.2rem 0;
+    }
+    .cta-btn {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 0.5rem 1.2rem;
+    }
+    .boxPara-div {
+        padding: 1.5rem;
+    }
+    .saven-heading {
+        font-size: 24px;
+        line-height: 32px;
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .vision-main-div {
+        padding: 1rem;
+    }
+    .vlues-main-div {
+        padding: 1rem;
+        padding-right: 1rem;
+    }
+    .vlues-main-div p.rh-shipping-heading.fw-bold {
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+    .mission-headingAnd-para {
+        padding-left: 2rem;
+    }
+    .mission-headingAnd-para p.rh-shipping-heading.fw-bold.mission-heading {
+        padding: 0;
+        margin: 0;
+    }
+    .common-heading {
+        font-size: 36px;
+        line-height: 34px;
+    }
+    .weAre-col {
+        padding: 0 1rem;
+    }
+    .nvocc-Main-div.contact-us-nvocc.about-us-bg-f7 {
+        padding-top: 4rem;
+    }
+    .WeAre-mainDiv {
+        padding-bottom: 3rem;
+        padding-top: 4rem;
+    }
+    .Ship-para {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .twentyfour-servicess-List {
+        padding: 1rem;
+        padding-left: 2rem;
+    }
+    .lock-icon img, .clock-icon img, .check-icon img {
+        max-height: 50px;
+        max-width: 50px;
+    }
+    .map-mainDiv {
+        background-size: 100% 90%;
+        min-height: 700px;
+    }
+    .continents {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    .form-right-col{
+        padding: 3rem;
+    }
+    .nvocc-Main-div {
+        padding: 3rem;
+        padding-top: 0;
+    }
+    .TakeLook-heading {
+        font-size: 36px;
+        line-height: 44px;
+    }
+    .fcl-Shipping-mainDiv {
+        padding: 3rem 0rem;
+    } 
+    .boxPara-same-heading {
+        font-size: 18px;
+        line-height: 24px;
+        padding-top: 0.5rem;
+    }
+    .box-common-para {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 0.3rem 0;
+    }
+    .box-para {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .fcl-para {
+        padding-right: 0rem;
+        padding-top: 1rem;
+    }
+    .ocean-para {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    .ocean-common-heading {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .box-para {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .box-para-bg {
+        padding: 1.5rem 1.5rem 2rem;
+    }
+    .subcommonHeading-five {
+        font-size: 30px;
+    }
+    .fcl-heading {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .box-para.ocean-para p {
+        margin-bottom: 0.5rem;
+    }
+    .logo-imgDiv {
+        min-height: 18vh;
+        max-height: 19vh;
+    }
+    .rateing-MainDiv.mb-5.service-page .rateing-colDiv {
+        margin: 0 1rem;
+        padding: 1.5rem 1rem;
+    }
+    .six-Common-heading {
+        font-size: 36px;
+    }
+    .nameAndLastName-img img {
+        max-height: 150px;
+    }
+    .aroplane-headingdiv {
+        padding: 5rem 2rem;
+        text-align: center;
+    }
+    .navBtn-heading {
+        font-size: 15px;
+    }
+    .nav-link {
+        margin-right: 1rem !important;
+    }
+    
+    .Careers-btn {
+        border: 1px solid #002E6D;
+        padding-left: 0.5rem !important;
+        padding-right: 0.5rem !important;
+        color: #002E6D;
+    }
+    .logo-plus-navbar{
+        flex-direction: column !important;
+    }
+    .saven-heading {
+        font-weight: bold;
+        font-size: 23px !important;
+        line-height: 34px;
+    }
+    .haveAMoreQues-MainDiv {
+        min-height: 350px;
+    }
+ }
+ /* @media (max-width: 1083.98px) { 
+    .cargo-box {
+        background-color: #002E6D;
+        padding-top: 1.5rem !important;
+    }
+ } */
+ @media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
+    .input-MainDiv {
+        flex-direction: row;
+        padding: 1rem;
+    }
+    .weAre-col {
+        padding: 0 0.5rem;
+    }
+    .input1 {
+        margin-right: 0.5rem;
+    }
+    .sixMin-read-main-Div {
+        padding-top: 2rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-bottom: 3rem;
+    }
+    .important-link {
+        padding-top: 4rem;
+        padding-bottom: 2rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    .subcommonHeading-five {
+        font-size: 26px;
+    }
+    .box-para {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .box-para-bg {
+        padding: 1rem 1rem 2rem;
+    }
+
+    
+}
+
+@media all and (device-width: 1024px) and (device-height: 768px) and (orientation:landscape) {}
+
+@media (min-width: 991.98px) and (max-width: 1199.98px) {
+    .navBtn-heading {
+        font-size: 14px;
+    }
+    a.navbar-brand img {
+        max-height: 60px;
+    }
+    .navbar-mainDiv {
+        padding: 1rem 3rem;
+    }
+    .signIn-subDiv{
+        padding-right: 3rem;
+    }
+    .sixMin-read-main-Div {
+        padding-top: 3rem;
+        padding-left: 4rem;
+        padding-right: 4rem;
+        padding-bottom: 4rem;
+    }
+    .signIn {
+        margin-right: 1rem;
+    }
+    .copyRightMainDiv {
+        padding: 1.5rem 4rem;
+    }
+    .rh-shipping-heading {
+        font-size: 30px;
+        line-height: 38px;
+        padding-bottom: 1rem;
+    }
+    .bbbDiv {
+        padding-top: 1rem;
+        padding-bottom: 4rem;
+    }
+    .haveAMoreQues-MainDiv{
+        min-height: 400px;
+    }
+}
+@media (max-width: 991.98px) {
+    .rudolf-hess-row {
+        padding: 2rem;
+        margin-top: 2rem;
+    }
+    .navbar-nav-ul{
+        padding-right: 0;
+    } 
+    .row.row-main-div.g-0 {
+        justify-content: center;
+    }
+    .plantImg-div1 {
+        padding-right: 0rem;
+    }
+    .subcommonHeading-five {
+        font-size: 26px;
+    }
+    .weAre-col {
+        padding: 0 1rem;
+    }
+    .casestudies-secess .item {
+        margin-bottom: 1rem;
+    }
+    .sucess-mainDiv.case-studies-slider1.pt-0.casestudies-secess {
+        padding-bottom: 0 !important;
+    }
+    .lock-icon img, .clock-icon img, .check-icon img {
+        max-height: 40px;
+        max-width: 40px;
+    }
+    .map-mainDiv {
+        background-size: 100% 80%;
+        min-height: 600px;
+    }
+    .continents {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    .rateing-MainDiv.mb-5.service-page {
+        padding: 0 3rem !important;
+    }
+    .sucess-mainDiv.pt-0 {
+        padding-top: 0 !important;
+        padding-bottom: 3rem !important;
+    }
+    .aroplane-headingdiv {
+        padding: 4rem 2rem;
+        text-align: center;
+    }
+    .six-Common-heading {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .forwarding-servicess-mainDiv .saven-box-maindiv.position-relative {
+        padding-left: 0 !important;
+    }
+    .ourBlog-mainDiv.recent-mainDiv {
+        padding-top: 3rem !important;
+        padding-bottom: 0rem !important;
+    }
+    .ourBlog-mainDiv .fuirts-colDiv {
+        margin: 0 1rem;
+    }
+    .ourBlog-mainDiv.recent-mainDiv h1.common-heading.pb-4 {
+        padding-bottom: 0 !important;
+    }
+    .clear-btn {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 8px 18px;
+        margin: 0 0.5rem;
+    }
+    .box-common-para {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 0.3rem 0;
+    }
+    .boxPara-same-heading {
+        font-size: 18px;
+        line-height: 18px;
+        padding-top: 0.5rem;
+    }
+    .intsupplyc-maindiv .fuirts-colDiv {
+        margin: 1rem;
+    }
+    .fourBox-mainDiv {
+        padding: 2rem 3rem;
+    }
+    .important-link {
+        padding: 3rem;
+    }
+    div#pills-tabContent .container-fluid {
+        padding: 0;
+    }
+    .cta-btn {
+        font-size: 14px;
+        line-height: 16px;
+        padding: 0.4rem 1.2rem;
+    }
+    .our-blog-row {
+        padding-right: 0rem !important;
+        margin: 0 auto;
+        justify-content: center;
+        padding-top: 2rem;
+    }
+    h1.freight-heading.common-heading.text-start br {
+        display: none;
+    }
+    .common-heading {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .forwarding-sub-heading {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    h1.common-heading.text-dark.nameAndLastName-heading {
+        text-align: left;
+        padding: 0 !important;
+    }
+    form.d-flex.ms-lg-4.button-frm button.btn {
+        display: block;
+        margin: 1rem 0;
+        min-width: 115px
+    }
+    .blog-title {
+        padding-top: 3rem;
+        padding-bottom: 3.5rem;
+    }
+    .caseStudies-mainDiv:before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.3);
+    }
+     #navbarSupportedContent {
+        position: absolute;
+        left: 0;
+        background: #fff;
+        padding: 1rem;
+        width: 100%;
+        top: 84%;
+        z-index: 999;
+        transition: 0.5s;
+        box-shadow: 0 12px 15px rgb(0 0 0 / 20%);
+    }
+    .common-heading {
+       
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
+    }
+    .logo-img {
+        padding: 1rem !important;
+        text-align: center;
+    }
+    .forwarding-servicess-mainDiv:before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: -50px;
+        background: #fff;
+        border-radius: 50%;
+        width: 100%;
+        height: 150px;
+        z-index: 0;
+    }
+    .saven-box-maindiv.position-relative {
+        margin-top: 0rem;
+    }
+    .intSPlusLik {
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+    .link-log{
+        padding-left: 5.3rem !important;
+    }
+    .fiata-img{
+        padding-top: 0rem !important;
+    }
+    .specialization-imgTwo-col{
+        padding-left: 0rem !important;
+       
+    }
+    .specialization-imgThree-col{
+        padding-left: 0rem !important;
+    }
+    .specialization-imgFour-col{
+        padding-left: 0rem !important;
+    }
+    .specialization-imgFive-col{
+        padding-left: 0rem !important;
+    }
+    .logo-imgDiv{
+        width: 100% !important;
+       
+    }
+    .specialization-img-MainDiv-row{
+        justify-content: center !important;
+    }
+    .haveAMoreQuesBody {
+        padding: 2rem !important;
+    }
+    .Ship-para {
+        padding: 1rem 0rem !important;
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .freight-heading {
+        color: white;
+        padding-left: 0 !important;
+    }
+    /* .Schedule-btn {
+       
+        width: 58% !important;
+    } */
+    .rateing-col {
+        padding-right: 0rem !important;
+        padding-left: 0rem !important;
+    }
+    .boxPara-div {
+        padding: 1rem 1rem 3rem 1rem !important;
+    }
+    .rateing-MainDiv {
+        padding-right: 0rem !important;
+    }
+    .ourBlog-mainDiv {
+        padding-right: 0rem !important;
+        padding-left: 0rem !important;
+    }
+    .bbbDiv {
+        padding-top: 1rem !important;
+        padding-bottom: 2rem !important;
+    }
+    .rh-shipping-heading {
+        text-align: left;
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 36px;
+        padding-bottom: 1rem;
+    }
+    .cta-btn{
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+    .container-img {
+        width: 100% !important;
+        /* min-height: 89.1vh !important; */
+    }
+    
+    /* .tons-box {
+        min-height: 50.8vh !important;
+    } */
+    .our-blog-row {
+        padding-right: 0rem !important;
+    }
+    .ourBlog-mainDiv {
+        padding-top: 0rem !important;
+        padding-bottom: 4rem !important;
+    }
+    .intsupplyc-heading {
+        color: #002E6D;
+        text-align: center;
+        padding-top: 3rem !important;
+        padding-bottom: 1rem !important;
+    }
+    .rateing-colDiv {
+        background: #F3F6F7;
+        text-align: center;
+        padding: 2rem 1rem;
+        margin: 0rem 0.5rem !important;
+    }
+    .sucess-mainDiv {
+        padding: 4rem 4rem 1rem 3.5rem !important;
+    }
+    .copyRightMainDiv {
+        background: #012251;
+        display: flex;
+        justify-content: space-around;
+        padding: 0rem 1rem !important;
+    }
+    .copyRight-para {
+        color: white;
+        padding-top: 1rem;
+        font-size: 0.9rem !important;
+        font-weight: 600;
+    }
+    .copyRightMainDiv p {
+        margin: 0;
+        text-align: center;
+        padding-left: 0 !important;
+    }
+    .copyRightMainDiv {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0 1rem !important;
+        padding-bottom: 1rem !important;
+    }
+    .sucessStory-headingDiv {
+        padding-bottom: 1.5rem;
+    }
+    .item-box-equal.flex-column.h-100 {
+        flex-direction: row !important;
+        height: 100%;
+        width: 100%;
+        min-height: 250px;
+    }
+    .nvocc-img-col {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 767.98px) and (max-width: 991.98px) {
+form.d-flex.ms-lg-4.button-frm button.btn {
+    display: block;
+    margin: 1rem 0;
+    min-width: 115px;
+    margin-right: 1rem;
+}
+.navbar-mainDiv {
+    padding: 1rem 3rem;
+}
+a.navbar-brand.rh-shipping-log img {
+    max-height: 60px;
+}
+.item-box-equal.flex-column.h-100 {
+    flex-direction: row !important;
+}
+}
+@media (max-width: 767.98px) { 
+    .signIn p {
+        margin-bottom: 0;
+    }
+    .caseStudies-heading {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .twentyFourServicess-mainDiv {
+        padding: 5rem 3rem 3.5rem;
+    }
+    .twentyFourServicess-mainDiv .row {
+        justify-content: center;
+    }
+    .twentyFourServicessCol {
+        padding: 2rem;
+    }
+    .mb-row-change {
+        flex-direction: column-reverse;
+    }
+    .fcl-Shipping-row {
+        padding-right: 0;
+    }
+    .fcl-Shipping-col {
+        padding: 0 1rem;
+        color: white;
+        margin-bottom: 2rem;
+    }
+    .fcl-heading {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .fcl-para {
+        padding-right: 0rem;
+        padding-top: 0.5rem;
+    }
+    .licence-patnershipMainDiv {
+        padding: 3rem 0;
+    }
+    ul.list-inline.button-frm.international-supply-btn {
+        padding: 0 1rem!important;
+        margin-top: 1.5rem;
+    }
+    ul.list-inline.button-frm.international-supply-btn li {
+        margin-bottom: 0.5rem;
+    }
+    p.text-white.Ship-para br {
+        display: none;
+    }
+    p.text-white.Ship-para {
+        padding: 0.5rem 0 !important;
+        font-size: 16px !important;
+        line-height: 20px !important;
+    }
+    .row-main-div {
+        padding-left: 0rem;
+        padding-right: 0rem;
+    }
+    .WeAre-mainDiv {
+        padding-bottom: 3rem;
+        padding-top: 3rem;
+    }
+    .subcommonHeading-five {
+        font-size: 26px;
+    }
+    .ocean-freight-MainPara {
+        padding: 2rem;
+    }
+    .ocean-common-heading {
+        font-size: 28px;
+        line-height: 28px;
+    }
+    .ourBlog-mainDiv.recent-post-MainDiv .row.g-0.our-blog-row {
+        padding-top: 0 !important;
+    }
+    .ourBlog-mainDiv.recent-post-MainDiv {
+        padding-top: 0 !important;
+    }
+    div#pills-tabContent .row {
+        justify-content: center;
+    }
+    .boxblog-para-span {
+        font-size: 24px;
+    }
+    .sixMin-read-main-Div {
+        padding-top: 2rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-bottom: 3rem;
+    }
+    .Readyto-getStarted-Maindiv, .nameAndLastName-MainDiv {
+        padding: 0rem 2rem;
+        padding-bottom: 3rem;
+    }
+    .nameAndLastName-headingDiv p {
+        text-align: center;
+    }
+    .nameAndLastName-headingDiv {
+        text-align: center;
+        margin-top: 1rem;
+        padding-left: 0;
+    }
+    .input1 {
+        /* padding-right: 3rem; */
+        margin-bottom: 1rem;
+        margin-right: 0;
+    }
+    .nameAndLastName-headingDiv .common-heading.text-dark.nameAndLastName-heading {
+        text-align: center;
+    }
+    .Readyto-getStartedBody {
+        padding: 3rem 1rem;
+    }
+    .input-MainDiv {
+        flex-direction: column;
+        padding: 1rem;
+    }
+    .social-link-mainDiv.name-social-link-mainDiv {
+        padding-right: 1.5rem;
+        justify-content: center;
+    }
+    .nameAndLastName {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+      body{
+          font-size: 12px;
+      }
+      form.d-flex.button-frm {
+        display: block !important;
+    }
+    form.d-flex.button-frm button {
+        display: block;
+        min-width: 216px;
+    }
+      .saven-heading {
+        font-weight: bold;
+        font-size: 20px !important;
+        line-height: 26px;
+    }
+    .link-log{
+        padding-left: 2.1rem !important;
+    }
+    /* .saven-box-maindiv{
+        padding-left: 4rem !important;
+    } */
+    
+    .rateing-colDiv {
+        background: #F3F6F7;
+        text-align: center;
+        padding: 4rem 4rem !important;
+        margin-bottom: 3rem !important;
+    }
+    .fuirts-colDiv {
+        box-shadow: 1px 4px 14px 1px #aaaaaa;
+        margin-bottom: 1rem !important;
+    }
+    .container-img {
+        width: 100% !important;
+        /* min-height: 66.6vh !important; */
+    }
+    .nameAndLastName-img img {
+        max-height: 120px;
+    }
+    .form-control {
+        padding: 0.7rem 1rem;
+    }
+    .secondaryTitle {
+        padding-top: 1.5rem;
+        padding-bottom: 0.3rem;
+    }
+    .button-frm{
+        flex-direction: column !important;
+    }
+    
+    .international-supply-btn {
+        padding-left: 4rem !important;
+    }
+    .specialization-img-MainDiv-row {
+        justify-content: left !important;
+        padding: 0rem 4rem;
+    }
+    .plantImg-div2 {
+        padding-left: 0rem !important;
+    }
+    .watter-station{
+        margin-top: 2rem !important;
+    }
+    a.navbar-brand.rh-shipping-log img {
+        max-height: 70px;
+    }
+    .navbar-mainDiv {
+        padding: 0.5rem 1rem;
+    }
+    .signIn {
+        margin-right: 1rem;
+    }
+    .English-Dropdown select option {
+        color: #000;
+        padding: 0.5rem;
+        font-size: 12px;
+    }
+   
+    .cta1.btn.btnFont-heading {
+        margin-bottom: 1rem;
+    }
+    .caseStudiesBody {
+        padding: 3rem 1.5rem;
+    }
+    .intSPlusLik {
+        padding-top: 3rem;
+    }
+    ul#pills-tab {
+        margin: 2rem 1rem !important;
+    }
+    ul#pills-tab li:not(:last-child) {
+        margin-bottom: 1rem;
+    }
+    .forwarding-heading {
+        padding: 0;
+    }
+    .haveAMoreQues-MainDiv{
+        min-height: 300px;
+    }
+    .English-Dropdown:after {
+        right: 10%;
+        top: 30%;
+        border-width: 7px 5px 0 5px;
+    }
+    .signIn-subDiv {
+        display: flex;
+        justify-content: end;
+        padding-right: 1rem;
+        padding-top: 0.5rem;
+    }
+    .BlogTitleHeader .caseStudiesBody {
+        padding: 3rem 0.5rem;
+    }
+    a.navbar-brand img {
+        max-height: 60px;
+    }
+    .navbar-toggler-icon {
+        display: inline-block;
+        width: 1.2em;
+        height: 1.2em;
+    }
+    .signUp-TextDiv.Readyto-getStartedBody h1.common-heading.text-white {
+        padding: 0 !important;
+    }
+    .nameAndLastName-MainDiv .row {
+        justify-content: center;
+    }
+    .ourBlog-mainDiv.recent-post-MainDiv.recent-mainDiv {
+        padding-bottom: 2rem !important;
+    }
+    .signUp-MainDiv {
+        margin-top: 1.5rem;
+    }
+    .mapDiv-col {
+        color: #002E6D;
+        padding-left: 2rem !important;
+    }
+    .mapDiv>p{
+        padding-top: 1rem !important;
+    }
+}
+@media (min-width: 575.98px) and (max-width: 767.98px) {
+    .item-box-equal.flex-column.h-100 {
+        flex-direction: row !important;
+    } 
+}
+
+@media (max-width: 575.98px) {
+    .English-Dropdown:after {
+        right: 10%;
+        top: 40%;
+        border-width: 7px 5px 0 5px;
+    } 
+    .button-frm{
+        flex-direction: column !important;
+    }
+    .intsupplyc-maindiv.Case-studies-sucess-stories {
+        padding-top: 3rem;
+    }
+    .specialization-img-MainDiv {
+        padding-bottom: 5rem !important;
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
+    }
+    .common-heading {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 28px !important;
+        line-height: 39px !important;
+    }
+    .forwarding-servicess-mainDiv {
+        padding-top: 1rem !important;
+        padding-bottom: 4rem !important;
+    }
+    .six-Common-heading {
+        font-size: 26px;
+        line-height: 38px;
+    }
+    .lock-icon img, .clock-icon img, .check-icon img {
+        max-height: 30px;
+        max-width: 30px;
+    }
+    .twentyFourServicessCol {
+        padding: 1.5rem 1rem;
+    }
+    .twentyfour-servicess-List {
+        padding: 1rem;
+        padding-left: 0.5rem;
+    }
+    .twentyFourServicess-mainDiv {
+        padding: 3rem 1.5rem 1.5rem;
+    }
+    .rateing-MainDiv {
+        padding-right: 0rem !important;
+        padding-left: 0;
+    }
+    .btnFont-heading {
+        font-size: 14px;
+        line-height: 20px;
+        padding-top: 0.4rem;
+        padding-bottom: 0.4rem;
+    }
+    .licece-heading-div {
+        padding-bottom: 2rem !important;
+    }
+    .specialization-img-MainDiv-row {
+        justify-content: left !important;
+        padding: 0rem 0rem !important;
+    }
+    .sucess-mainDiv {
+        padding: 4rem 1rem !important;
+    }
+    .plant-heading2 {
+        padding-left: 0rem !important;
+        padding-bottom: 0.5rem !important;
+    }
+    .container-img {
+        width: 100% !important;
+        min-height: 38.6vh !important;
+    }
+    .intsupplyc-heading {
+        color: #002E6D;
+        text-align: center;
+        padding-top: 2rem !important;
+        padding-bottom: 0.5rem !important;
+    }
+    .intsupplyc-maindiv {
+        padding-bottom: 2rem !important;
+    }
+    .fourBox-mainDiv {
+        padding: 1rem !important;
+    }
+    .saven-box-maindiv {
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
+    }
+    
+    .watter-station{
+        margin-top: 2rem !important;
+    }
+    .sucess-mainDiv {
+        padding: 5rem 2rem !important;
+    }
+    .plantImg-div2 {
+        padding-left: 0rem !important;
+    }
+    .charter-heading1 {
+        padding-right: 2.5rem;
+        padding-bottom: 2rem !important;
+    }
+    
+.important-link {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+.rh-services-heading {
+    padding-bottom: 0.5rem;
+}
+.ourBlog-mainDiv {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+}
+.Ship-para {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px !important;
+    line-height: 26px !important;
+}
+.owl-carouse-MainDiv {
+    padding: 0rem 1rem !important;
+}
+
+.saven-box-div-boxes {
+    padding: 4rem 1rem !important;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 28px !important;
+}
+.tons-box {
+    min-height: unset !important;
+}
+.saven-box-maindiv {
+    padding-left: 0rem !important;
+    padding-right: 0rem !important;
+}
+.logo-img {
+   
+    max-width: 50% !important;
+}
+.forwarding-sub-heading {
+    font-weight: 400;
+    font-size: 20px !important;
+    line-height: 30px;
+    text-align: center;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+
+.owl-theme .owl-dots {
+    padding: 0rem 0rem !important;
+    text-align: center;
+    -webkit-tap-highlight-color: transparent;
+}
+.sucess-mainDiv {
+    padding: 3rem 1rem!important;
+}
+.charter-heading1 {
+    margin-bottom: 0rem !important;
+    padding-right: 1.5rem !important;
+    padding-bottom: 0rem !important;
+}
+.clear-btn {
+    font-size: 14px;
+    line-height: 18px;
+    padding: 6px 14px;
+    margin: 0 0.3rem;
+}
+.rateing-colDiv {
+    background: #F3F6F7;
+    text-align: center;
+    padding: 2rem !important;
+    margin-bottom: 2rem !important;
+}
+.intsupplyc-heading {
+    color: #002E6D;
+    text-align: center;
+    padding-top: 0rem !important;
+    padding-bottom: 0rem !important;
+}
+button.btn.Careers-btn.btnFont-heading {
+    margin-bottom: 1rem;
+}
+form.d-flex.button-frm.ms-lg-5.contact-us-btn button {
+    width: 50%;
+    margin-bottom: 1rem;
+}
+ul#pills-tab li:not(:last-child) {
+    margin-bottom: 0.5rem;
+}
+ul#pills-tab {
+    margin: 1rem !important;
+}
+.TakeLook-heading {
+    font-size: 32px;
+    line-height: 36px;
+}
+}
